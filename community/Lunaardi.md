@@ -1,7 +1,5 @@
 *<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=timeGradient&text=Bem%20Vindo%20ao%20meu%20Github!&section=header&reversal=false&fontSize=42&fontAlign=50&fontAlignY=32&stroke=5&strokeWidth=10&animation=twinkling&textBg=false"/>
-
 ## Paulo Lunardi
-
 ### 📚Atualmente Estudando:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-Web3?style=plastic&logo=Solidity&logoColor=hsl&color=%238a2be2)
